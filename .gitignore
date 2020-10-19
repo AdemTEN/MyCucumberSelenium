@@ -1,1 +1,3 @@
-/MyCucumberSelenium.iml
+*.iml
+/.idea/
+/target/
